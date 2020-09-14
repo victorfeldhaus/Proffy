@@ -25,6 +25,8 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 
 -  [Node.js](https://nodejs.org/en/)
 -  [Express](https://expressjs.com/)
+-  [Nunjucks]
+-  [Sqlite-Async]
 
 
 ---
